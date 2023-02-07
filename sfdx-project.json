@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "SalesforceDevOpts",
+  "namespace": "",
+  "sourceApiVersion": "56.0"
+}
