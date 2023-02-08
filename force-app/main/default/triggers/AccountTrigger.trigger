@@ -6,7 +6,7 @@
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 trigger AccountTrigger on Account (before insert, before update) {
-    if(trigger.insert) {
+    if(trigger.isinsert) {
         
     }
     else if (trigger.isUpdate) {
